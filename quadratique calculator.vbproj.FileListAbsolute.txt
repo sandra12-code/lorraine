@@ -1,0 +1,10 @@
+D:\vb projects\quadratique calculator\quadratique calculator\bin\Debug\quadratique calculator.exe.config
+D:\vb projects\quadratique calculator\quadratique calculator\obj\Debug\quadratique_calculator.Form1.resources
+D:\vb projects\quadratique calculator\quadratique calculator\obj\Debug\quadratique_calculator.Resources.resources
+D:\vb projects\quadratique calculator\quadratique calculator\obj\Debug\quadratique calculator.vbproj.GenerateResource.Cache
+D:\vb projects\quadratique calculator\quadratique calculator\bin\Debug\quadratique calculator.exe
+D:\vb projects\quadratique calculator\quadratique calculator\bin\Debug\quadratique calculator.pdb
+D:\vb projects\quadratique calculator\quadratique calculator\bin\Debug\quadratique calculator.xml
+D:\vb projects\quadratique calculator\quadratique calculator\obj\Debug\quadratique calculator.exe
+D:\vb projects\quadratique calculator\quadratique calculator\obj\Debug\quadratique calculator.xml
+D:\vb projects\quadratique calculator\quadratique calculator\obj\Debug\quadratique calculator.pdb

@@ -1,0 +1,15 @@
+C:\Users\lawrence\Desktop\sudoku\bin\Debug\netcoreapp3.1\sudoku.exe
+C:\Users\lawrence\Desktop\sudoku\bin\Debug\netcoreapp3.1\sudoku.deps.json
+C:\Users\lawrence\Desktop\sudoku\bin\Debug\netcoreapp3.1\sudoku.runtimeconfig.json
+C:\Users\lawrence\Desktop\sudoku\bin\Debug\netcoreapp3.1\sudoku.runtimeconfig.dev.json
+C:\Users\lawrence\Desktop\sudoku\bin\Debug\netcoreapp3.1\sudoku.dll
+C:\Users\lawrence\Desktop\sudoku\bin\Debug\netcoreapp3.1\sudoku.pdb
+C:\Users\lawrence\Desktop\sudoku\obj\Debug\netcoreapp3.1\sudoku.vbprojAssemblyReference.cache
+C:\Users\lawrence\Desktop\sudoku\obj\Debug\netcoreapp3.1\Sudoku.Form1.resources
+C:\Users\lawrence\Desktop\sudoku\obj\Debug\netcoreapp3.1\sudoku.vbproj.GenerateResource.cache
+C:\Users\lawrence\Desktop\sudoku\obj\Debug\netcoreapp3.1\sudoku.AssemblyInfoInputs.cache
+C:\Users\lawrence\Desktop\sudoku\obj\Debug\netcoreapp3.1\sudoku.AssemblyInfo.vb
+C:\Users\lawrence\Desktop\sudoku\obj\Debug\netcoreapp3.1\sudoku.vbproj.CoreCompileInputs.cache
+C:\Users\lawrence\Desktop\sudoku\obj\Debug\netcoreapp3.1\sudoku.dll
+C:\Users\lawrence\Desktop\sudoku\obj\Debug\netcoreapp3.1\sudoku.pdb
+C:\Users\lawrence\Desktop\sudoku\obj\Debug\netcoreapp3.1\sudoku.genruntimeconfig.cache
